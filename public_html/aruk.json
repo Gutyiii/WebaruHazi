@@ -1,0 +1,27 @@
+[
+    {
+        "tnev": "Termék neve:",
+        "db": "Darabszám:",
+        "suly": "Súlya(g):",
+        "nem": "Ki vásárolta:",
+        "vido": "Vásárási idő:"
+    }, {
+        "tnev": "Bicikli",
+        "db": "2",
+        "suly": "12000",
+        "nem": "Férfi",
+        "vido": "1969-07-20"
+    }, {
+        "tnev": "Kancsó",
+        "db": "10",
+        "suly": "400",
+        "nem": "Nő",
+        "vido": "1999-12-01"
+    }, {
+        "tnev": "Lufi",
+        "db": "30",
+        "suly": "10",
+        "nem": "Nő",
+        "vido": "2001-02-02"
+    }
+]
